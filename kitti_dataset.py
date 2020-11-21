@@ -1,3 +1,5 @@
+# Source code from SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection, HKUST
+
 import os.path
 import torchvision.transforms as transforms
 import torch
